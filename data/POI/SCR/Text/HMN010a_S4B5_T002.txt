@@ -1,0 +1,15 @@
+#Target Info
+HMN010a_S4B5_T002
+Sonar Time at Target: 06/04/2020 16:41:13
+Click Position:  35°33.082' N 13°57.717' E (WGS84)
+Projected Coordinates:(X) 1234591.20 (Y) 3347520.55 
+Fish Height: 25.05 Meters
+Line Name: HMN010a_PES_S4B5_L125__H.006L
+Water Depth: 542.52 Meters
+#Dimensions and attributes
+Target Width: 3.4 Meters
+Target Height: 0.0 Meters
+Target Length: 5.7 Meters
+Description: Unknown Object
+
+

@@ -1,0 +1,12 @@
+#Target Info
+HMN010a_S5B0_T001
+Click Position:  35°58.907’N 13°29.095’ E (WGS84)
+Projected Coordinates:(X) 1192409.97 (Y) 3394219.50 
+Fish Height: 17.10 Meters
+Line Name: HMN010a_PES_S5B0_L125__D.004L
+Water Depth: 694.01 Meters
+#Dimensions and attributes
+Target Width: 1.7 Meters
+Target Height: 0.0 Meters
+Target Length: 6.0 Meters
+Description: Unknown object

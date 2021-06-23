@@ -1,0 +1,12 @@
+#Target Info
+HMN010c_PES_MALTA_T009
+Click Position:  35°40.205’N 13°52.305’ E (WGS84)
+Projected Coordinates:(X) 1226615.92 (Y) 3360374.48 
+Fish Height: 11.39 Meters
+Line Name: HMN010c_PES_BU_MEL_L150__H.001L
+Water Depth: 0.00 Meters
+#Dimensions and attributes
+Target Width: 0.00 Meters
+Target Height: 0.00 Meters
+Target Length: 143.1 Meters
+Description: Possible cable

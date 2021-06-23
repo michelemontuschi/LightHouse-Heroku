@@ -1,0 +1,8 @@
+colorscale_th= mapbox://styles/michelemontuschi/ckk5o1uln0e8x17s2conjkf1q
+colorscale_ha= mapbox://styles/michelemontuschi/ckk5o1nrg0e8o17s2bz49eihw
+colorscale_deep= mapbox://styles/michelemontuschi/ckk5o1sql0w3i17pag25knjig
+lat_c= 32.837
+lon_c= 34.432	
+zoom_c= 12.
+c_min_c= -1612
+c_max_c= -994

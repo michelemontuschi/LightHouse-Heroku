@@ -1,0 +1,10 @@
+lonmin= 34.705798716407
+lonmax= 34.706791195422
+latmin= 32.6974594181
+latmax= 32.708196236535
+lon_div= 11
+lat_div= 119
+cellsize= 1.8045073e-05
+n_points= 5
+lon_rem= 1
+lat_rem= 3

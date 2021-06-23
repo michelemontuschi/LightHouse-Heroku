@@ -1,0 +1,4 @@
+__pycache__
+flaskApp-env
+data\NewRaster\wsgi
+data\auth\
